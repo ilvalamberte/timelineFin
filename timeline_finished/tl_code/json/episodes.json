@@ -1,0 +1,54 @@
+[
+    {
+      "episode": "mobira",
+      "date": "1982",
+      "id":1
+     
+    },
+    {
+      "episode": "dynatac",
+      "date": "1983",
+      "id":2
+      
+    },
+    {
+        "episode": "dynatac",
+        "date": "1983",
+        "id":3
+        
+      },
+      {
+        "episode": "dynatac",
+        "date": 1983,
+        "id":4
+        
+      },
+
+      {
+        "episode": "dynatac",
+        "date": 1983,
+        "id":5
+        
+      },
+    
+      {
+        "episode": "dynatac",
+        "date": 1983,
+        "id":6
+        
+      },
+
+      {
+        "episode": "dynatac",
+        "date": 1983,
+        "id":7
+        
+      },
+
+      {
+        "episode": "dynatac",
+        "date": 1983,
+        "id":8
+        
+      }
+  ]
